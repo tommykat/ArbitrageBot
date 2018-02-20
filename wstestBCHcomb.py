@@ -10,7 +10,7 @@ from os import system
 from pymongo import MongoClient
 import configparser
 #import redis
-#newbranch
+#newbranch asd
 #VARIABLES
     #tickers
 magic = {'magic': "wstestBCHcomb_v1.31"}
